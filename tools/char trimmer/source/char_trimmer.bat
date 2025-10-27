@@ -1,0 +1,1 @@
+python source/char_trimmer.py
